@@ -146,3 +146,75 @@ main {
     border-top: 3px solid black;
     margin-left: 1rem;
 }
+
+.fees {
+    border: 2px solid black;
+    width:40%;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    height: 10%
+}
+
+.fees-header {
+    text-align: center;
+    background-color: skyblue;
+    border-bottom: 2px solid black;
+    width: 100%;
+}
+
+.fees h2 {
+    letter-spacing: 2mm;
+}
+
+.fees-contents {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 2rem;
+
+}
+
+
+.assessment {
+    display:flex;
+    padding: 0.5rem 2rem 0.5rem 8rem;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    justify-content: space-between;
+    
+}
+
+.payment {
+    display:flex;
+    padding: 0.5rem 2rem 0.5rem 10rem;
+    justify-content: space-between;
+}
+
+.balance {
+    display:flex;
+    padding: 0.5rem 2rem 0.5rem 6rem;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    justify-content: space-between;
+}
+
+.sched-payment {
+    background-color: skyblue;
+    text-align: center;
+
+}
+
+.payment-due {
+    display:flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.payment-due div {
+    padding: 0 0.5rem;
+}
+
+
+.bot-sec {
+    display:flex;
+}
