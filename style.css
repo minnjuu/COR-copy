@@ -274,3 +274,14 @@ main {
     display: inline;
     color: black;
 }
+
+.print-date {
+    margin-top: 15rem;
+    text-align: right;
+}
+
+.footer {
+    text-align: center;
+    border-top: 4px solid black;
+    background-color: skyblue;
+}
