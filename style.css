@@ -70,6 +70,10 @@ main {
     line-height: 1.8;
 }
 
+.SGI-column span {
+    font-weight: normal;
+}
+
 .course-header {
     border-top: 4px solid black;
     border-bottom: 4px solid black;
