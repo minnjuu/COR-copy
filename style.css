@@ -204,6 +204,7 @@ main {
 .sched-payment {
     background-color: skyblue;
     text-align: center;
+    border-bottom: 1px solid;
 
 }
 
